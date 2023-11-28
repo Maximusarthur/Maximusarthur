@@ -1,7 +1,5 @@
-### Hi there 👋
+# Hi there 👋
 [![Header](https://raw.githubusercontent.com/Maximusarthur/Maximusarthur/master/readme_header.png "Header")](https://martinheinz.dev/)
-
-<br>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -19,8 +17,6 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-<br>
 
 [![Maximusarthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maximusarthur&show_icons=true&theme=Dracula)](https://github.com/Maximusarthur/github-readme-stats)
 <!--
