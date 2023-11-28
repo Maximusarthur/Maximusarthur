@@ -5,7 +5,7 @@
 - 💬 Ask me about Cyberspace Security
 - 📫 How to reach me: maximusjim88@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I look funny
 <br>
 
 # Languages and Tools:
