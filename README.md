@@ -91,7 +91,7 @@
 
 # &#x1f4c8; GitHub Stats
 <p>
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Maximusarthur&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats" />
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Maximusarthur&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Maximusarthur's+GitHub+Stats" />
     <br>
     <img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=Maximusarthur&theme=tokyonight" />
     <br>
