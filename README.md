@@ -1,10 +1,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/Maximusarthur/Maximusarthur/master/wave.gif" width="30px" height="30px" />
 - 🔭 I’m currently working on AI-Synthesized Voice Detection and Cyberspace Security
 - 🌱 I’m currently learning AI
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with about learning AI
 - 💬 Ask me about Cyberspace Security
 - 📫 How to reach me: maximusjim88@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I look funny
 <br>
 
