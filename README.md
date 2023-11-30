@@ -57,6 +57,9 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>  
   </a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Maximusarthur/Maximusarthur/blob/main/Kali-linux.512.png" alt="Kali" width="40" height="40"/>  
+  </a>
 </p>
 <br>
 <details open> 
