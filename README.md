@@ -94,19 +94,27 @@
   </a>
 </p>
 <br>
+<details open> 
+  <summary align="center"><h1>Github Detailed Information</h1></summary>
+  <h2 align="center">📊 Github Profile Activity</h2>
 
-# &#x1f4c8; GitHub Stats
-<p>
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Maximusarthur&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Maximusarthur's+GitHub+Stats" />
-    <br>
-    <img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=Maximusarthur&theme=tokyonight" />
-    <br>
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximusarthur&layout=compact&theme=tokyonight" />
-    <br>
-    <img align="right" width="45%" src="https://github-profile-trophy.vercel.app/?username=Maximusarthur&theme=darkhub" />
-    <br>
-</p>
-<br>
+  <p align="center">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bear Miscca's streak" src="https://streak-stats.demolab.com/?user=Maximusarthur&theme=monokai-metallian&hide_border=true"/>
+  </p>
+
+  <h2 align="center">💻 Github Repositories Stats</h3>
+
+  <p align="center">
+    <img alt="Miscca's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Maximusarthur&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    <img alt="Miscca's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Maximusarthur&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  <br/>
+      
+  <img src="https://github-profile-trophy.vercel.app/?username=Maximusarthur&column=8"/>
+  
+  <img alt="Maximusarthur's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Maximusarthur&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  </p>
+
+</details>
 
 
 <!--
