@@ -1,4 +1,26 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/Maximusarthur/Maximusarthur/master/wave.gif" width="30px" height="30px" />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class CyberSpaceEngineer:
+
+    def __init__(self):
+        self.name = "MaximusCoder"
+        self.role = "CyberSpace Engineer"
+        self.language_spoken = ["zh_CN", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 - 🔭 I’m currently working on AI-Synthesized Voice Detection and Cyberspace Security
 - 🌱 I’m currently learning AI
 - 🤔 I’m looking for help with about learning AI
