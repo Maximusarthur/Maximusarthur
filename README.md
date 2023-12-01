@@ -28,6 +28,7 @@ me.say_hi()
 - 📫 How to reach me: maximusjim88@gmail.com
 - ⚡ Fun fact: I look funny
 <br>
+
 # Languages and Tools:
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
