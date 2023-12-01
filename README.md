@@ -18,7 +18,7 @@ class CyberSpaceEngineer:
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = CyberSpaceEngineer()
 me.say_hi()
 ```
 - 🔭 I’m currently working on AI-Synthesized Voice Detection and Cyberspace Security
