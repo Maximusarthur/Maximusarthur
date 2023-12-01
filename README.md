@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/Maximusarthur/Maximusarthur/master/wave.gif" width="30px" height="30px" />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Maximusarthur.Maximusarthur&format=true)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```python
@@ -28,7 +28,6 @@ me.say_hi()
 - 📫 How to reach me: maximusjim88@gmail.com
 - ⚡ Fun fact: I look funny
 <br>
-
 # Languages and Tools:
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
