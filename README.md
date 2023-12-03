@@ -103,9 +103,7 @@ me.say_hi()
   
   <img alt="Maximusarthur's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Maximusarthur&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   </p>
-
 </details>
-
 
 <!--
 **Maximusarthur/Maximusarthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
