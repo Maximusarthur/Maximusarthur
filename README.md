@@ -7,18 +7,18 @@
 # -*- coding: utf-8 -*-
 
 
-class CyberSpaceEngineer:
+class CyberSecurityEngineer:
 
     def __init__(self):
         self.name = "MaximusCoder"
-        self.role = "CyberSpace Engineer"
+        self.role = "CyberSecurity Engineer"
         self.language_spoken = ["zh_CN", "en_US"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = CyberSpaceEngineer()
+me = CyberSecurityEngineer()
 me.say_hi()
 ```
 - 🔭 I’m currently working on AI-Synthesized Voice Detection and Cyberspace Security
