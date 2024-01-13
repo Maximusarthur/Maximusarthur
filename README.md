@@ -86,7 +86,7 @@ me.say_hi()
   <h2 align="center">📊 Github Profile Activity</h2>
 
   <p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bear Miscca's streak" src="https://streak-stats.demolab.com/?user=Maximusarthur&theme=monokai-metallian&hide_border=true"/>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=%20MaximusCoder&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
   </p>
 
   <h2 align="center">💻 Github Repositories Stats</h3>
