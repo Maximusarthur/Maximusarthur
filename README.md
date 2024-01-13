@@ -83,11 +83,6 @@ me.say_hi()
 <br>
 <details open> 
   <summary align="center"><h1>Github Detailed Information</h1></summary>
-  <h2 align="center">📊 Github Profile Activity</h2>
-
-  <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=%20MaximusCoder&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
-  </p>
 
   <h2 align="center">💻 Github Repositories Stats</h3>
 
